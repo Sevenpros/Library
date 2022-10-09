@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 required './person'
 
 # this is the Student class
